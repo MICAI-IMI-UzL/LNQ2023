@@ -4,7 +4,6 @@ import torch.nn.functional as F
 
 from imi_image_warp import load_image_sitk, load_field_sitk, sitk_image_to_tensor, tensor_image_to_sitk, write_image_sitk
 from imi_image_pyramid import build_pyramid, pyrup
-from deformation import warp_image_with_displacement_field, identity_displacement_field
 from imi_regularized_warper import ImiRegularizedWarper
 from imi_distance_ncc import NCC
 from imi_deformation import identity_displacement_field
