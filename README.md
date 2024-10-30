@@ -65,16 +65,24 @@ The code for postprocessing can be also found in *Inference*.
 Please refer to our work:
 
 ```
-Sofija Engelson, Jan Ehrhardt, Timo Kepp, Joshua Niemeijer, Heinz Handels (2024). “LNQ Challenge 2023: Learning Mediastinal Lymph Node
-Segmentation with a Probabilistic Lymph Node Atlas." In submission.
+Sofija Engelson, Jan Ehrhardt, Timo Kepp, Joshua Niemeijer, Heinz Handels (2024). LNQ Challenge 2023: Learning Mediastinal Lymph Node
+Segmentation with a Probabilistic Lymph Node Atlas. Machine Learning for Biomedical Imaging, 2, 817–833. URL: https://melba-journal.org/2024:009. 
+DOI: https://doi.org/10.59275/j.melba.2024-f95c.
 ```
 
 BibTex citation:
 ```
-@article{lnq2023,
-  title={LNQ Challenge 2023: Learning Mediastinal Lymph Node Segmentation with a Probabilistic Lymph Node Atlas},
-  author={Engelson, Sofija and Ehrhradt, Jan and Kepp, Timo and Niemeijer, Joshua and Handels, Heinz},
-  year={2024},
+@article{melba:2024:009:engelson,
+    title = "LNQ Challenge 2023: Learning Mediastinal Lymph Node Segmentation with a Probabilistic Lymph Node Atlas",
+    author = "Engelson, Sofija and Ehrhardt, Jan and Kepp, Timo and Niemeijer, Joshua and Handels, Heinz",
+    journal = "Machine Learning for Biomedical Imaging",
+    volume = "2",
+    issue = "MICCAI 2023 LNQ challenge special issue",
+    year = "2024",
+    pages = "817--833",
+    issn = "2766-905X",
+    doi = "https://doi.org/10.59275/j.melba.2024-f95c",
+    url = "https://melba-journal.org/2024:009"
 }
 ```
 
